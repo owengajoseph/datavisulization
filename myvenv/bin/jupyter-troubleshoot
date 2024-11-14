@@ -1,4 +1,4 @@
-#!/home/use426/git/datavisulization/myvenv/bin/python
+#!/home/user426/git/datavisulization/myvenv/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
